@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "cstdlib": "c",
+        "stack.h": "c",
+        "ctype.h": "c",
+        "lexer.h": "c"
+    }
+}
